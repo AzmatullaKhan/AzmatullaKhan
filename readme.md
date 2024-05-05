@@ -35,6 +35,7 @@
 </div>
 
  <hr/>
+ <hr/>
 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -47,6 +48,7 @@
 
 <hr/>
 <br/>
+<hr/>
 
 
 <p align="center">
@@ -73,6 +75,7 @@
 
 <br/>
 <hr>
+<hr/>
 <br/>
 <br/>
 
@@ -85,5 +88,6 @@
 
 <br/>
 <hr>
+<hr/>
 <br/>
 <br/>
