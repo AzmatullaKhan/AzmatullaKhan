@@ -1,16 +1,9 @@
-<!--
-<h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
--->
 
-<!--
 <p align="center">
-  <a href="https://github.com/AzmatullaKhan"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/AzmatullaKhan"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Azmatulla;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
- -->
+<!--
 <div align="center">
 
 
@@ -18,7 +11,11 @@
 
 </div>
 
-<h3 align="center">Connect with me !</h3>
+-->
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
+<h5 align="center">Connect with me!</h5>
 
 <div align="center"> 
   <a href="mailto:azmatpersonal@gmail.com">
@@ -36,7 +33,7 @@
 </p>
  
 
-
+<!--
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,mui,html,css,javascript,python,vscode,github" /><br>
@@ -47,6 +44,7 @@
 
 <hr/>
 <hr/>
+-->
 <br/>
 
 
