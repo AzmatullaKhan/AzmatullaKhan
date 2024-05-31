@@ -35,6 +35,9 @@
 </div>
 
  <hr/>
+ <p align="center">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=drknzz&color=grey">
+</p>
  <hr/>
 
 
