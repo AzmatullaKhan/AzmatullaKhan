@@ -3,15 +3,6 @@
   <a href="https://github.com/AzmatullaKhan"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Azmatulla;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
-<!--
-<div align="center">
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&pause=500&center=true&vCenter=true&random=false&width=435&lines=Hey!;Azmatulla+here+👋;Have+a+good+day)](https://git.io/typing-svg)
-
-</div>
-
--->
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
 
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="display:inline;">
@@ -32,19 +23,6 @@
     <img id="preview" src="https://komarev.com/ghpvc/?username=AzmatullaKhan&color=grey">
 </p>
  
-
-<!--
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mui,html,css,javascript,python,vscode,github" /><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,git,nodejs,express,mongodb,c,java,postgres,next" /><br>
-</div>
-
-<br>
-
-<hr/>
-<hr/>
--->
 <br/>
 
 
