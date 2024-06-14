@@ -49,10 +49,8 @@
 
 
 <br/>
-
 <hr>
 <hr/>
-
 <br/>
 <br/>
 
@@ -62,11 +60,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&pause=500&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+your+time+🩵)](https://git.io/typing-svg)
 
 </div>
-
 <br/>
-
 <hr>
 <hr/>
-
 <br/>
 <br/>
