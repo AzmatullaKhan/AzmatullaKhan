@@ -20,17 +20,11 @@
 <br>
 
  <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=AzmatullaKhan&color=grey">
+   <a href="https://github.com/AzmatullaKhan"><img src="https://github-readme-streak-stats.herokuapp.com?user=AzmatullaKhan&theme=gruvbox-duo&hide_border=true&card_width=568" alt="GitHub Streak" /></a>
 </p>
  
 <br/>
 
-
-<p align="center">
-  <a href="https://github.com/AzmatullaKhan">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzmatullaKhan&theme=radical&border=7F3FBF&background=0D1117" alt="Azmatulla Khan's GitHub streak"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/AzmatullaKhan">
