@@ -18,6 +18,9 @@
 </div>
 
 <br>
+ <p align="center">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=AzmatullaKhan&color=grey">
+</p>
 
  <p align="center">
    <a href="https://github.com/AzmatullaKhan"><img src="https://github-readme-streak-stats.herokuapp.com?user=AzmatullaKhan&theme=gruvbox-duo&hide_border=true&card_width=568" alt="GitHub Streak" /></a>
