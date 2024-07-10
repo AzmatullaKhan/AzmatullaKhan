@@ -1,4 +1,3 @@
-
 <p align="center">
   <a href="https://github.com/AzmatullaKhan"><img src="https://readme-typing-svg.herokuapp.com/?lines=I%20am%20Azmatulla;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
@@ -41,17 +40,13 @@
   <br/>
 </a>
 
-
 ![Azmatulla Khan's](https://github-readme-activity-graph.vercel.app/graph?username=AzmatullaKhan&custom_title=AzmatullaKhan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
 
 <br/>
 <hr>
 <hr/>
 <br/>
 <br/>
-
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+code&pause=500&center=true&vCenter=true&random=false&width=435&lines=Thanks+for+your+time+🩵)](https://git.io/typing-svg)
